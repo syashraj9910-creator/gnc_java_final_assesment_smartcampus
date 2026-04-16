@@ -1,5 +1,4 @@
 # gnc_java_final_assesment_smartcampus
-/*
 ===========================================================
 🎓 Smart Campus Management System (Java)
 ===========================================================
